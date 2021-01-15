@@ -1,2 +1,12 @@
 # CRUD-in-json-file
-Web page for performing Create, Read, Update and delete the content in json file using C#.
+
+This article will demonstrate how to implement CRUD operations with JSON file in a project using C# code.
+JSON [Javascript Object Notaion] is a subset of Javascript.It is very lightweight data exchange format.We can use a JSON file to store data without database connectivity.
+
+Technologies
+C#
+JSON
+Json.NET
+
+Requirement
+Visual Studio 2015
